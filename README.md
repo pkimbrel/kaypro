@@ -22,7 +22,7 @@ The commands I used to base64 encode the file:
 base64 KAYKER.COM > KAYKER.B64
 ```
 
-The TERM.ASM program for my Kaypro I that helped me learn the initilization routine of the RS-232 port:
+The TERM.ASM program for my Kaypro I that helped me learn the initialization routine of the RS-232 port:
 * http://www.slor.net/kaypro/res/Private-Images/K10TKIT/TERM.MAC
 
 The site that helped be build the BASE64 decoding:
